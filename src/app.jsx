@@ -1,5 +1,5 @@
-const USERNAME = 'ADMIN_EMAIL'
-const PASSWORD = 'ADMIN_PASSWORD'
+const USERNAME = 'dscatalan@gmail.com'
+const PASSWORD = 'dhQXwJDpp23Ybib'
 
 const pb = new PocketBase('http://127.0.0.1:8090')
 
